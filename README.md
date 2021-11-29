@@ -1,1 +1,1 @@
-# Speech-Encryption-using-LFSR-and-NLFSR
+# thewittystranger-Speech-Encryption-Using-LFSR-NLFSR
